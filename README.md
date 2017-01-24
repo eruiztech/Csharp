@@ -1,2 +1,2 @@
 # C Sharp
-Built an operating system using Cosmos and C Sharp.
+Built an operating system using Cosmos OS and C Sharp.
